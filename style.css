@@ -1,0 +1,12 @@
+
+.table, td {
+    border-style: ridge;
+    /* border: 1px solid #999;     */
+    padding: 8px 20px;
+}
+
+.row2 {
+    background-color: greenyellow;
+}
+
+
